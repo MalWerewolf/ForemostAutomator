@@ -20,6 +20,8 @@ http://www.malwerewolf.com/
 Author: Destruct_Icon, 8bits0fbr@in, nanoSpl0it, Otakun
 Version: 1.0
 
+Summary: Uses foremost, MD5 and VirusTotal to triage any carved DLLs and executables.
+
 """
 import subprocess
 import os
